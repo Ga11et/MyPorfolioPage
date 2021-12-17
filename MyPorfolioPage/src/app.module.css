@@ -1,0 +1,59 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    font-size: 2em;
+}
+.projects{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 33vw 33vw;
+}
+.projects > a{
+    position: relative;
+}
+.projects > a::-webkit-scrollbar{
+    background-color: grey;
+    width: 7px;
+}
+.projects > a::-webkit-scrollbar-thumb{
+    background-color: #222a31;
+}
+.projects > a:hover{
+    overflow-y: scroll;
+}
+.projects > a:hover > .back{
+    background-color: transparent;
+    transition: 0.6s;
+    color: transparent;
+}
+.projects > a:hover > img{
+    transition: 0.6s;
+    object-fit: initial;
+    height: initial;
+}
+.projects > a .back{
+    background-color: #000b;
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.projects > a > .back > h2{
+    color: inherit;
+    font-size: 2.5em;
+}
+.projects > a > img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
