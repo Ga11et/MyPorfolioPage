@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/MyPorfolioPage/static/css/main.90c3eca1.css",
-    "main.js": "/MyPorfolioPage/static/js/main.33eea62c.js",
+    "main.css": "/MyPorfolioPage/static/css/main.013f270a.css",
+    "main.js": "/MyPorfolioPage/static/js/main.be4b49bb.js",
     "static/js/787.a6ce227c.chunk.js": "/MyPorfolioPage/static/js/787.a6ce227c.chunk.js",
     "static/media/weatherApp.jpg": "/MyPorfolioPage/static/media/weatherApp.d6f43678008827705cb9.jpg",
     "static/media/lending.jpg": "/MyPorfolioPage/static/media/lending.a1a3f4f153921af03556.jpg",
     "static/media/socialNetwork.jpg": "/MyPorfolioPage/static/media/socialNetwork.8ca01fb692a321215482.jpg",
+    "static/media/hotelBooking.jpg": "/MyPorfolioPage/static/media/hotelBooking.24582cbfdd2eed3417c1.jpg",
     "index.html": "/MyPorfolioPage/index.html",
-    "main.90c3eca1.css.map": "/MyPorfolioPage/static/css/main.90c3eca1.css.map",
-    "main.33eea62c.js.map": "/MyPorfolioPage/static/js/main.33eea62c.js.map",
+    "main.013f270a.css.map": "/MyPorfolioPage/static/css/main.013f270a.css.map",
+    "main.be4b49bb.js.map": "/MyPorfolioPage/static/js/main.be4b49bb.js.map",
     "787.a6ce227c.chunk.js.map": "/MyPorfolioPage/static/js/787.a6ce227c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90c3eca1.css",
-    "static/js/main.33eea62c.js"
+    "static/css/main.013f270a.css",
+    "static/js/main.be4b49bb.js"
   ]
 }
