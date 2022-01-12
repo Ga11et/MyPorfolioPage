@@ -21,7 +21,7 @@
     background-color: #222a31;
 }
 .projects > a:hover{
-    overflow-y: scroll;
+    overflow-y: unset;
 }
 .projects > a:hover > .back{
     background-color: transparent;
@@ -30,8 +30,8 @@
 }
 .projects > a:hover > img{
     transition: 0.6s;
-    object-fit: initial;
-    height: initial;
+    /* object-fit: initial; */
+    /* height: initial; */
 }
 .projects > a .back{
     background-color: #000b;

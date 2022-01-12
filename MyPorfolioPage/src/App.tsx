@@ -2,6 +2,8 @@ import React, { FC } from 'react';
 import css from './app.module.css'
 import lendingPhoto from './assets/lending.jpg'
 import SocialNetworkPhoto from './assets/socialNetwork.jpg'
+import weatherApp from './assets/weatherApp.jpg'
+import hotelBooking from './assets/hotelBooking.jpg'
 
 function App() {
   return <>
@@ -17,10 +19,10 @@ const Header: FC<{}> = (props) => {
 }
 
 const projectsData = [
-  {id: 1, photo: lendingPhoto, name: 'Lending', href: 'https://ga11et.github.io/Lending/'},
-  {id: 2, photo: '', name: 'Weather App', href: ''},
+  {id: 1, photo: hotelBooking, name: 'hotelBooking', href: 'https://ga11et.github.io/hotelBooking/'},
+  {id: 2, photo: weatherApp, name: 'Weather App', href: 'https://ga11et.github.io/WeatherApp/'},
   {id: 3, photo: SocialNetworkPhoto, name: 'Social Network', href: 'https://ga11et.github.io/MyReactProject/'},
-  {id: 4, photo: '', name: '...', href: ''},
+  {id: 4, photo: lendingPhoto, name: 'Lending', href: 'https://ga11et.github.io/Lending/'},
   {id: 5, photo: '', name: '...', href: ''},
   {id: 6, photo: '', name: '...', href: ''},
 ]
