@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/MyPorfolioPage/static/css/main.90ddcb1a.css",
-    "main.js": "/MyPorfolioPage/static/js/main.56ca3cfb.js",
+    "main.css": "/MyPorfolioPage/static/css/main.9c618ebd.css",
+    "main.js": "/MyPorfolioPage/static/js/main.c827fcf8.js",
     "static/js/787.a6ce227c.chunk.js": "/MyPorfolioPage/static/js/787.a6ce227c.chunk.js",
     "static/media/weatherApp.jpg": "/MyPorfolioPage/static/media/weatherApp.d6f43678008827705cb9.jpg",
     "static/media/lending.jpg": "/MyPorfolioPage/static/media/lending.a1a3f4f153921af03556.jpg",
+    "static/media/floroteka.jpg": "/MyPorfolioPage/static/media/floroteka.f0a2d0821fdb3d0b2ab2.jpg",
     "static/media/socialNetwork.jpg": "/MyPorfolioPage/static/media/socialNetwork.8ca01fb692a321215482.jpg",
     "static/media/hotelBooking.jpg": "/MyPorfolioPage/static/media/hotelBooking.24582cbfdd2eed3417c1.jpg",
     "static/media/courses.jpg": "/MyPorfolioPage/static/media/courses.d6d8d55de2b67baf9f99.jpg",
     "index.html": "/MyPorfolioPage/index.html",
-    "main.90ddcb1a.css.map": "/MyPorfolioPage/static/css/main.90ddcb1a.css.map",
-    "main.56ca3cfb.js.map": "/MyPorfolioPage/static/js/main.56ca3cfb.js.map",
+    "main.9c618ebd.css.map": "/MyPorfolioPage/static/css/main.9c618ebd.css.map",
+    "main.c827fcf8.js.map": "/MyPorfolioPage/static/js/main.c827fcf8.js.map",
     "787.a6ce227c.chunk.js.map": "/MyPorfolioPage/static/js/787.a6ce227c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90ddcb1a.css",
-    "static/js/main.56ca3cfb.js"
+    "static/css/main.9c618ebd.css",
+    "static/js/main.c827fcf8.js"
   ]
 }
